@@ -1,0 +1,373 @@
+﻿id,course_name,degree_id,college_dunia_link,target_study_link,careers_360_link,status,sequence,is_deleted,created_by,created_on,updated_on,updated_by
+1,B.Com(Bachelor of commerce) / BCom,3,"","","",Active,"0",No,"0",2023-05-15 06:22:21,2024-01-03 15:30:18,"0"
+2,B.A. / BA,3,"","","",Active,"0",No,"0",2023-05-15 06:22:21,2024-01-03 15:30:18,"0"
+3,B.Arch (Bachelor of Architecture),3,"","","",Active,"0",No,"0",2023-05-15 06:22:21,2024-01-03 15:30:18,"0"
+4,B.Des (Bachelor of Design),3,"","","",Active,"0",No,"0",2023-05-15 06:22:21,2024-01-03 15:30:18,"0"
+5,B.Ed / BEd,3,"","","",Active,"0",No,"0",2023-05-15 06:22:21,2024-01-03 15:30:18,"0"
+6,B.Pharma / BPharma,3,"","","",Active,"0",No,"0",2023-05-15 06:22:21,2024-01-03 15:30:18,"0"
+7,B.Sc(Bachelor of Science) / BSc,3,"","","",Active,"0",No,"0",2023-05-15 06:22:21,2024-01-03 15:30:18,"0"
+8,B.Tourism,3,"","","",Active,"0",No,"0",2023-05-15 06:22:21,2024-01-03 15:30:18,"0"
+9,BBA / BBM / BBS / BMS,3,"","","",Active,"0",No,"0",2023-05-15 06:22:21,2024-01-03 15:30:18,"0"
+10,BCA / BCM,3,"","","",Active,"0",No,"0",2023-05-15 06:22:21,2024-01-03 15:30:18,"0"
+11,BDS,3,"","","",Active,"0",No,"0",2023-05-15 06:22:21,2024-01-03 15:30:18,"0"
+12,BE / B.Tech / BTech,3,"","","",Active,"0",No,"0",2023-05-15 06:22:21,2024-01-03 15:30:18,"0"
+13,BFA,3,"","","",Active,"0",No,"0",2023-05-15 06:22:21,2024-01-03 15:30:18,"0"
+14,BHM,3,"","","",Active,"0",No,"0",2023-05-15 06:22:21,2024-01-03 15:30:18,"0"
+15,BJMC,3,"","","",Active,"0",No,"0",2023-05-15 06:22:21,2024-01-03 15:30:18,"0"
+16,BVSc,3,"","","",Active,"0",No,"0",2023-05-15 06:22:21,2024-01-03 15:30:18,"0"
+17,Diploma,4,"","","",Active,"0",No,"0",2023-05-15 06:22:21,2025-12-27 12:23:20,1584
+18,LLB,3,"","","",Active,"0",No,"0",2023-05-15 06:22:21,2024-01-03 15:30:18,"0"
+19,MBBS,3,"","","",Active,"0",No,"0",2023-05-15 06:22:21,2024-01-03 15:30:18,"0"
+21,Masters of Computer Applications (MCA),2,"","","",Active,"0",No,"0",2023-05-15 06:22:21,2024-01-03 15:30:18,"0"
+30,CA,2,"","","",Active,"0",No,"0",2023-05-15 06:22:21,2024-01-03 15:30:18,"0"
+31,CS,2,"","","",Active,"0",No,"0",2023-05-15 06:22:21,2024-01-03 15:30:18,"0"
+32,ICWA,2,"","","",Active,"0",No,"0",2023-05-15 06:22:21,2024-01-03 15:30:18,"0"
+33,LLM,2,"","","",Active,"0",No,"0",2023-05-15 06:22:21,2024-01-03 15:30:18,"0"
+34,M.A (Master of Arts - MA),2,"","","",Active,"0",No,"0",2023-05-15 06:22:21,2024-07-29 11:45:10,1
+35,M.Arch,2,"","","",Active,"0",No,"0",2023-05-15 06:22:21,2024-01-03 15:30:18,"0"
+36,M.Com / MCom,2,"","","",Active,"0",No,"0",2023-05-15 06:22:21,2024-01-03 15:30:18,"0"
+37,M.D.,2,"","","",Active,"0",No,"0",2023-05-15 06:22:21,2024-01-03 15:30:18,"0"
+38,M.Des,2,"","","",Active,"0",No,"0",2023-05-15 06:22:21,2024-01-03 15:30:18,"0"
+39,M.E(Master of Engineering)/M.Tech(Masters in Tech) / ME / MTech,2,"","","",Active,"0",No,"0",2023-05-15 06:22:21,2024-01-03 15:30:18,"0"
+40,M.Ed / MEd,2,"","","",Active,"0",No,"0",2023-05-15 06:22:21,2024-01-03 15:30:18,"0"
+41,M.Ekistics,2,"","","",Active,"0",No,"0",2023-05-15 06:22:21,2024-01-03 15:30:18,"0"
+42,M.Pharma / MPharma,2,"","","",Active,"0",No,"0",2023-05-15 06:22:21,2024-01-03 15:30:18,"0"
+43,M.Phil,2,"","","",Active,"0",No,"0",2023-05-15 06:22:21,2024-01-03 15:30:18,"0"
+44,M.Sc(Master of Science) / MSc,2,"","","",Active,"0",No,"0",2023-05-15 06:22:21,2024-01-03 15:30:18,"0"
+45,M.Tourism,2,"","","",Active,"0",No,"0",2023-05-15 06:22:21,2024-01-03 15:30:18,"0"
+46,MBA / PGDM / MMS,2,"","","",Active,"0",No,"0",2023-05-15 06:22:21,2024-01-03 15:30:18,"0"
+48,MDS,2,"","","",Active,"0",No,"0",2023-05-15 06:22:21,2024-01-03 15:30:18,"0"
+49,MFA (Masters of Fine Arts),2,"","","",Active,"0",No,"0",2023-05-15 06:22:21,2024-01-03 15:30:18,"0"
+50,MHM (Masters in Hotel Management),2,"","","",Active,"0",No,"0",2023-05-15 06:22:21,2024-01-03 15:30:18,"0"
+51,MJMC (Masters in Journalism & Mass Communication),2,"","","",Active,"0",No,"0",2023-05-15 06:22:21,2024-01-03 15:30:18,"0"
+52,MVSc (Masters in Veternary & Science),2,"","","",Active,"0",No,"0",2023-05-15 06:22:21,2024-01-03 15:30:18,"0"
+53,PG Diploma,2,"","","",Active,"0",No,"0",2023-05-15 06:22:21,2024-01-03 15:30:18,"0"
+54,MBE (Master of Business Economics),2,"","","",Active,"0",No,"0",2023-05-15 06:22:21,2024-01-03 15:30:18,"0"
+55,MSW (Masters of Social Work),2,"","","",In-active,"0",Yes,"0",2023-05-15 06:22:21,2026-02-09 15:21:23,"0"
+56,MCM (Masters of Computer Management),2,"","","",Active,"0",No,"0",2023-05-15 06:22:21,2024-01-03 15:30:18,"0"
+57,Ph.D/Doctorate,1,"","","",Active,"0",No,"0",2023-05-15 06:22:21,2024-01-03 15:30:18,"0"
+58,MPHIL (Masters of Philosophy),1,"","","",Active,"0",No,"0",2023-05-15 06:22:21,2024-01-03 15:30:18,"0"
+71,BBI (Bachelor of Banking and Insurance),3,"","","",Active,"0",No,"0",2023-05-15 06:22:21,2024-01-03 15:30:18,"0"
+72,BAF (Bachelors of Accounting & Finance),3,"","","",Active,"0",No,"0",2023-05-15 06:23:37,2024-04-25 15:55:26,"0"
+77,B.Voc (Bachelor of Vocation),3,"","","",Active,"0",No,"0",2023-06-15 15:30:53,2024-01-03 15:30:18,1986
+82,PGPM (Post Graduate Program in Management),2,"","","",Active,"0",No,"0",2023-05-15 06:22:21,2024-01-03 15:30:18,"0"
+83,BMM (Bachelor`s of Mass Media),3,"","","",Active,"0",No,"0",2023-05-15 06:22:21,2024-01-03 15:30:18,"0"
+84,Integrated PG,2,"","","",Active,"0",No,"0",2023-05-15 06:22:21,2024-01-03 15:30:18,"0"
+127,BFM (Bachelors of Finance Management),3,"","","",Active,"0",No,"0",2023-05-15 06:23:37,2026-02-09 16:12:44,"0"
+128,MBA (INTEGRATED),2,"","","",Active,"0",No,"0",2023-05-15 06:23:37,2026-02-09 16:12:44,"0"
+153,APPLIED ARTS AND CRAFTS,4,"","","",In-active,"0",No,"0",2023-05-15 06:22:21,2026-02-27 18:04:22,1584
+164,APPLIED ARTS AND CRAFTS,2,"","","",In-active,"0",No,"0",2023-05-15 06:22:21,2026-02-27 18:04:27,1584
+165,APPLIED ARTS AND CRAFTS,3,"","","",Active,"0",No,"0",2023-05-15 06:22:21,2024-01-03 15:30:18,"0"
+182,BAMS (BACHELOR IN AYURVEDIC MEDICINE AND SURGERY),3,"","","",Active,"0",No,"0",2023-05-15 06:23:37,2026-02-09 16:12:44,"0"
+192,ITI Courses,3,"","","",Active,"0",No,"0",2023-05-15 06:22:21,2024-01-03 15:30:18,"0"
+240,BHMS (Bachelor of Homeopathic Medicine and Surge,3,"","","",Active,"0",No,"0",2023-05-15 06:23:37,2026-02-09 16:12:44,"0"
+265,Bachelor of Industrial Design (B.I.D),4,https://www.careers360.com/courses/bid-bachelor-of-interior-design,https://www.careers360.com/courses/bid-bachelor-of-interior-design,https://www.careers360.com/courses/bid-bachelor-of-interior-design,Active,"0",No,"0",2023-05-15 06:22:21,2024-01-03 15:30:18,"0"
+266,Bachelor Of Mass Communication (BMC),3,https://collegedunia.com/courses/bachelor-of-mass-communication-bmc,https://collegedunia.com/courses/bachelor-of-mass-communication-bmc,https://collegedunia.com/courses/bachelor-of-mass-communication-bmc,Active,"0",No,"0",2023-05-15 06:22:21,2024-01-03 15:30:18,"0"
+267,MSC (Integrated),2,https://www.careers360.com/university/university-of-mumbai-mumbai/msc-basic-sciences-integrated-course,https://www.careers360.com/university/university-of-mumbai-mumbai/msc-basic-sciences-integrated-course,https://www.careers360.com/university/university-of-mumbai-mumbai/msc-basic-sciences-integrated-course,Active,"0",No,"0",2023-05-15 06:22:21,2024-01-03 15:30:18,"0"
+268,B.S.,3,https://targetstudy.com/colleges/bs-economics-degree-colleges-in-india.html,https://targetstudy.com/colleges/bs-economics-degree-colleges-in-india.html,https://targetstudy.com/colleges/bs-economics-degree-colleges-in-india.html,Active,"0",No,"0",2023-05-15 06:22:21,2024-01-03 15:30:18,"0"
+269,BMLT (Bachelor in Medical Laboratory Technology),3,https://collegedunia.com/courses/bachelor-in-medical-laboratory-technology-bmlt,https://collegedunia.com/courses/bachelor-in-medical-laboratory-technology-bmlt,https://collegedunia.com/courses/bachelor-in-medical-laboratory-technology-bmlt,Active,"0",No,"0",2023-05-15 06:22:21,2024-01-03 15:30:18,"0"
+270,DMLT (Diploma in medical laboratory and technology),4,https://collegedunia.com/courses/diploma-in-medical-laboratory-technology-dmlt,https://collegedunia.com/courses/diploma-in-medical-laboratory-technology-dmlt,https://collegedunia.com/courses/diploma-in-medical-laboratory-technology-dmlt,Active,"0",No,"0",2023-05-15 06:22:21,2024-01-03 15:30:18,"0"
+271,BPT (Bachelor of Physiotherapy),3,"https://www.careers360.com/courses/bpt-bachelor-of-physiotherapy#:~:text=What%20is%20Bachelor%20of%20Physiotherapy,complete%20a%20six%20months%20internship.","https://www.careers360.com/courses/bpt-bachelor-of-physiotherapy#:~:text=What%20is%20Bachelor%20of%20Physiotherapy,complete%20a%20six%20months%20internship.","https://www.careers360.com/courses/bpt-bachelor-of-physiotherapy#:~:text=What%20is%20Bachelor%20of%20Physiotherapy,complete%20a%20six%20months%20internship.",Active,"0",No,"0",2023-05-15 06:22:21,2024-01-03 15:30:18,"0"
+272,BTECH AND MTECH DUAL DEGREE,4,https://www.careers360.com/courses/b-tech-dual-degree,https://www.careers360.com/courses/b-tech-dual-degree,https://www.careers360.com/courses/b-tech-dual-degree,Active,"0",No,"0",2023-05-15 06:22:21,2024-01-03 15:30:18,"0"
+273,BAMMC (Bachelor of Arts Multi Media and Mass Communication),3,https://www.careers360.com/colleges/vande-mataram-degree-college-dombivli/bammc-course,https://www.careers360.com/colleges/vande-mataram-degree-college-dombivli/bammc-course,https://www.careers360.com/colleges/vande-mataram-degree-college-dombivli/bammc-course,Active,"0",No,"0",2023-05-15 06:22:21,2024-01-03 15:30:18,"0"
+274,Bachelor of Hotel Management and Catering Technology [BHMCT],3,https://collegedunia.com/courses/bachelor-of-hotel-management-and-catering-technology-bhmct,https://collegedunia.com/courses/bachelor-of-hotel-management-and-catering-technology-bhmct,https://collegedunia.com/courses/bachelor-of-hotel-management-and-catering-technology-bhmct,Active,"0",No,"0",2023-05-15 06:22:21,2024-01-03 15:30:18,"0"
+275,BTTM (Bachelor of Tourism and Travel Management),3,https://www.careers360.com/courses/bttm-bachelor-of-tourism-and-travel-management,https://www.careers360.com/courses/bttm-bachelor-of-tourism-and-travel-management,https://www.careers360.com/courses/bttm-bachelor-of-tourism-and-travel-management,Active,"0",No,"0",2023-05-15 06:22:21,2024-01-03 15:30:18,"0"
+276,M.Voc,2,https://www.careers360.com/colleges/vikas-college-of-arts-science-and-commerce-mumbai/mvoc-medical-lab-technology-course,https://www.careers360.com/colleges/vikas-college-of-arts-science-and-commerce-mumbai/mvoc-medical-lab-technology-course,https://www.careers360.com/colleges/vikas-college-of-arts-science-and-commerce-mumbai/mvoc-medical-lab-technology-course,Active,"0",No,"0",2023-05-15 06:22:21,2024-01-03 15:30:18,"0"
+277,B Pharm + MBA,2,https://collegedunia.com/courses/bachelor-of-pharmacy-bpharm-master-of-business-administration-mba,https://collegedunia.com/courses/bachelor-of-pharmacy-bpharm-master-of-business-administration-mba,https://collegedunia.com/courses/bachelor-of-pharmacy-bpharm-master-of-business-administration-mba,Active,"0",No,"0",2023-05-15 06:22:21,2024-01-03 15:30:18,"0"
+278,BCS,3,https://collegedunia.com/courses/bachelors-of-computer-science-bcs,https://collegedunia.com/courses/bachelors-of-computer-science-bcs,https://collegedunia.com/courses/bachelors-of-computer-science-bcs,Active,"0",No,"0",2023-05-15 06:22:21,2024-01-03 15:30:18,"0"
+280,BSTC,3,https://targetstudy.com/colleges/basic-school-training-certificate-bstc-certificate-colleges-in-maharashtra.html,https://targetstudy.com/colleges/basic-school-training-certificate-bstc-certificate-colleges-in-maharashtra.html,https://targetstudy.com/colleges/basic-school-training-certificate-bstc-certificate-colleges-in-maharashtra.html,Active,"0",No,"0",2023-05-15 06:22:21,2024-01-03 15:30:18,"0"
+281,B.com (Hons),3,https://www.careers360.com/courses/b-com-hons-bachelor-of-commerce-honors,https://www.careers360.com/courses/b-com-hons-bachelor-of-commerce-honors,https://www.careers360.com/courses/b-com-hons-bachelor-of-commerce-honors,In-active,"0",No,"0",2024-01-03 15:29:21,2026-02-27 18:06:35,1584
+282,B.Lib.I.Sc,3,https://collegedunia.com/courses/bachelor-of-library-and-information-science-blibisc,https://collegedunia.com/courses/bachelor-of-library-and-information-science-blibisc,https://collegedunia.com/courses/bachelor-of-library-and-information-science-blibisc,Active,"0",No,"0",2023-05-15 06:22:21,2024-01-03 15:30:18,"0"
+283,D.Voc,4,https://www.careers360.com/colleges/mewat-engineering-college-mewat/dvoc-automobile-servicing-course,https://www.careers360.com/colleges/mewat-engineering-college-mewat/dvoc-automobile-servicing-coursehttps://www.careers360.com/colleges/mewat-engineering-college-mewat/dvoc-automobile-servicing-course,https://www.careers360.com/colleges/mewat-engineering-college-mewat/dvoc-automobile-servicing-course,Active,"0",No,"0",2023-05-15 06:22:21,2024-01-03 15:30:18,"0"
+284,BA B.Ed,4,https://www.careers360.com/courses/ba-b-ed-dual-degree,https://www.careers360.com/courses/ba-b-ed-dual-degree,https://www.careers360.com/courses/ba-b-ed-dual-degree,Active,"0",No,"0",2023-05-15 06:22:21,2024-01-03 15:30:18,"0"
+285,B.Sc B.Ed,4,https://www.careers360.com/courses/bsc-b-ed-dual-degree,https://www.careers360.com/courses/bsc-b-ed-dual-degree,https://www.careers360.com/courses/bsc-b-ed-dual-degree,Active,"0",No,"0",2023-05-15 06:22:21,2024-01-03 15:30:18,"0"
+286,Executive MBA,2,https://www.careers360.com/courses/executive-mba,https://www.careers360.com/courses/executive-mba,https://www.careers360.com/courses/executive-mba,Active,"0",No,"0",2023-05-15 06:22:21,2024-01-03 15:30:18,"0"
+287,MHA,2,https://medicine.careers360.com/colleges/list-of-mha-in-hospital-administration-colleges-in-maharashtra,https://medicine.careers360.com/colleges/list-of-mha-in-hospital-administration-colleges-in-maharashtra,https://medicine.careers360.com/colleges/list-of-mha-in-hospital-administration-colleges-in-maharashtra,Active,"0",No,"0",2023-05-15 06:22:21,2024-01-03 15:30:18,"0"
+288,HDCM,4,https://targetstudy.com/colleges/diploma-in-co-operative-management-diploma-colleges-in-maharashtra.html,https://targetstudy.com/colleges/diploma-in-co-operative-management-diploma-colleges-in-maharashtra.html,https://targetstudy.com/colleges/diploma-in-co-operative-management-diploma-colleges-in-maharashtra.html,Active,"0",No,"0",2023-05-15 06:22:21,2024-01-03 15:30:18,"0"
+289,MPT,2,https://www.careers360.com/courses/mpt-master-of-physiotherapy,https://www.careers360.com/courses/mpt-master-of-physiotherapy,https://www.careers360.com/courses/mpt-master-of-physiotherapy,Active,"0",No,"0",2023-05-15 06:22:21,2024-01-03 15:30:18,"0"
+290,M.Plan,2,https://collegedunia.com/courses/master-of-planning-urban-and-regional-planning,https://collegedunia.com/courses/master-of-planning-urban-and-regional-planning,https://collegedunia.com/courses/master-of-planning-urban-and-regional-planning,Active,"0",No,"0",2023-05-15 06:22:21,2024-01-03 15:30:18,"0"
+291,Master of Public Health (M.P.H),2,https://www.careers360.com/courses/mph-master-of-public-health,https://www.careers360.com/courses/mph-master-of-public-health,https://www.careers360.com/courses/mph-master-of-public-health,Active,"0",No,"0",2023-05-15 06:22:21,2024-01-03 15:30:18,"0"
+292,B.B.A. (Hons),4,https://collegedunia.com/courses/bachelor-of-business-administration-bba-hons,https://collegedunia.com/courses/bachelor-of-business-administration-bba-hons,https://collegedunia.com/courses/bachelor-of-business-administration-bba-hons,Active,"0",No,"0",2023-05-15 06:22:21,2024-01-03 15:30:18,"0"
+294,Diploma in Electrical Engineering,4,"","","",Active,"0",No,"0",2023-05-15 06:23:37,2024-07-25 05:52:43,"0"
+295,UG Diploma,4,"","","",Active,"0",No,"0",2023-05-15 06:23:37,2025-03-20 17:25:23,1584
+296,BCCA,3,,,,Active,,No,1986,2023-06-23 10:10:48,2024-01-03 15:30:18,"0"
+297,Bachelor of Social Work (BSW / B.S.W),4,,,,Active,,No,1584,2024-01-29 10:18:12,2024-01-29 10:18:12,"0"
+298,Bachelor of Visual Arts (BVA / B.V.A),4,,,,Active,,No,1584,2024-01-29 10:19:00,2024-01-29 10:19:00,"0"
+299,Diploma in digital marketing,4,,,,Active,,No,1,2024-01-31 18:59:01,2024-01-31 18:59:01,"0"
+300,BFSc ( Bachelor of Fisheries Science ),4,,,,Active,,No,1584,2024-02-09 18:12:16,2024-02-09 18:12:16,"0"
+301,Diploma in Automobile Engineering,4,,,,Active,,No,1,2024-03-22 15:32:30,2024-03-22 15:32:30,"0"
+302,Diploma in Mechanical Engineering,4,,,,Active,,No,1,2024-08-01 15:52:52,2024-08-01 10:22:52,"0"
+303,B.A (Hons),4,,,,Active,,No,1,2024-11-04 17:11:43,2024-11-04 17:11:43,"0"
+304,MTTM - Masters in Travel and Tourism Management,2,,,,Active,,No,1584,2025-01-03 16:44:57,2025-01-03 16:44:57,"0"
+305,Bachelor of Arts,4,,,,Active,,No,1584,2025-01-04 11:47:25,2025-01-04 11:47:25,"0"
+306,Bachelor of Commerce,4,,,,Active,,No,1584,2025-01-11 10:12:34,2025-01-11 10:13:43,1584
+307,Bachelor of Science,4,,,,Active,,No,1584,2025-01-15 10:38:20,2025-01-15 10:44:26,1584
+308,Diploma in Civil Engineering,4,,,,Active,,No,1584,2025-01-20 11:14:33,2025-01-20 11:15:49,1584
+309,Certified Courses,4,,,,Active,,No,1584,2025-03-04 15:04:01,2025-03-04 09:34:01,"0"
+310,Masters of Cloud Computing with Artificial Intelligence,2,,,,Active,,No,1584,2025-03-12 12:56:01,2025-03-12 12:56:30,1584
+311,Diploma In Cloud Computing with Artificial Intelligence,4,,,,Active,,No,1584,2025-03-12 12:57:34,2025-03-12 07:27:34,"0"
+313,B.com [Hons],3,,,,In-active,,No,1584,2025-12-29 13:21:39,2026-02-27 18:06:37,1584
+314,D.Pharm,"0","",Active,No,Active,,No,1,2026-01-29 12:29:47,2026-02-09 16:12:44,1
+315,B.E / B.Tech,3,Graduate,Active,No,Active,,No,1,2026-01-29 12:33:52,2026-02-09 16:12:44,1
+316,B.C.A,3,Graduate,Active,No,Active,,No,1,2026-01-29 12:33:52,2026-02-09 16:12:44,1
+317,B.Sc.,4,Under Graduate,Active,No,Active,,No,1,2026-01-29 12:33:54,2026-01-29 12:33:54,1
+318,B.C.A.,3,Graduate,Active,No,In-active,,Yes,1,2026-01-29 12:33:54,2026-02-05 12:35:39,1
+319,D.Pharma,"0","",Active,No,In-active,,Yes,1,2026-01-29 12:33:55,2026-02-05 12:35:39,1
+320,Bachelor of Library and Information Science,"0","",Active,No,Active,,No,1,2026-01-29 12:33:57,2026-02-09 16:12:44,1
+321,PGDCA,"0","",Active,No,Active,,No,1,2026-01-29 12:33:59,2026-02-09 16:12:44,1
+322,BSc (Hons),4,Under Graduate,Active,No,Active,,No,1,2026-01-29 12:34:01,2026-02-09 16:12:44,1
+323,M.Lib.I.Sc,2,Post Graduate,Active,No,Active,,No,1,2026-01-29 12:34:01,2026-02-09 16:12:44,1
+324,AI Teacher Training Certification,"0","",Active,No,Active,,No,1,2026-01-29 12:34:02,2026-02-09 16:12:44,1
+325,B.Com (Honours),3,Graduate,Active,No,In-active,,No,1,2026-01-29 12:34:08,2026-02-27 18:09:17,1584
+326,International Studies Major,"0","",Active,No,Active,,No,1,2026-01-29 12:34:18,2026-01-29 12:34:18,1
+327,International Studies Minors,"0","",Active,No,Active,,No,1,2026-01-29 12:34:18,2026-01-29 12:34:18,1
+328,M.C.A.,2,Post Graduate,Active,No,Active,,No,1,2026-01-29 12:34:18,2026-02-09 16:12:44,1
+329,Business Apprenticeships,"0","",Active,No,Active,,No,1,2026-01-29 12:34:23,2026-01-29 12:34:23,1
+330,B.Com.,4,Under Graduate,Active,No,Active,,No,1,2026-01-29 12:34:25,2026-02-09 16:12:44,1
+331,M.A.,2,Post Graduate,Active,No,Active,,No,1,2026-01-29 12:34:25,2026-02-09 16:12:44,1
+332,M.Sc.,2,Post Graduate,Active,No,Active,,No,1,2026-01-29 12:34:25,2026-01-29 12:34:25,1
+333,BLIS,"0","",Active,No,Active,,No,1,2026-01-29 12:34:25,2026-02-09 16:12:44,1
+334,Business English,"0","",Active,No,Active,,No,1,2026-01-29 12:34:25,2026-02-09 16:12:44,1
+335,Fashion Designing,"0","",Active,No,Active,,No,1,2026-01-29 12:34:25,2026-02-09 16:12:44,1
+336,B.Sc. (Hons),"0","",Active,No,Active,,No,1,2026-01-29 12:34:26,2026-02-09 16:12:44,1
+337,BA (H),4,Under Graduate,Active,No,In-active,,Yes,1,2026-01-29 12:34:28,2026-02-05 12:35:39,1
+338,BSc (H),4,Under Graduate,Active,No,In-active,,Yes,1,2026-01-29 12:34:28,2026-02-05 12:35:39,1
+339,Bachelors in Management Studies,3,Graduate,Active,No,Active,,No,1,2026-01-29 12:34:32,2026-02-09 16:12:44,1
+340,D.El.Ed,"0","",Active,No,In-active,,Yes,1,2026-01-29 12:34:34,2026-02-05 12:35:39,1
+341,B.Sc Hons,"0","",Active,No,Active,,No,1,2026-01-29 12:34:35,2026-02-09 16:12:44,1
+342,B.Com Hons,3,Graduate,Active,No,Active,,No,1,2026-01-29 12:34:36,2026-02-09 16:12:44,1
+343,B.Lib.Sc.,"0","",Active,No,Active,,No,1,2026-01-29 12:34:40,2026-02-09 16:12:44,1
+344,B.A. (Honours),4,Under Graduate,Active,No,Active,,No,1,2026-01-29 12:34:40,2026-02-09 16:12:44,1
+345,B.Sc. (Honours),"0","",Active,No,In-active,,Yes,1,2026-01-29 12:34:41,2026-02-05 12:35:39,1
+346,B.Com. (Honours),3,Graduate,Active,No,Active,,No,1,2026-01-29 12:34:41,2026-01-29 12:34:41,1
+347,B.Sc Nursing,"0","",Active,No,Active,,No,1,2026-01-29 12:34:45,2026-02-09 16:12:44,1
+348,Ph.D.,3,Graduate,Active,No,Active,,No,1,2026-01-29 12:44:32,2026-01-29 12:44:32,1
+349,M.Com.,2,Post Graduate,Active,No,Active,,No,1,2026-01-29 12:44:53,2026-02-09 16:12:44,1
+350,B.E/B.Tech,3,Graduate,Active,No,Active,,No,1,2026-01-29 12:44:55,2026-01-29 12:44:55,1
+351,M.E/M.Tech,2,Post Graduate,Active,No,Active,,No,1,2026-01-29 12:44:55,2026-02-09 16:12:44,1
+352,P.G.D.C.A.,2,,,,Active,,No,1,2026-01-29 12:45:01,2026-02-06 18:27:38,1
+353,B.Sc (Hons),"0","",Active,No,In-active,,Yes,1,2026-01-29 12:45:14,2026-02-05 12:35:39,1
+354,B.A.(Hons),3,,,,Active,,No,1,2026-01-29 12:45:15,2026-02-10 11:29:16,1
+355,B.Com(Hons),3,Graduate,Active,No,In-active,,Yes,1,2026-01-29 12:45:15,2026-02-05 12:35:39,1
+356,B.Sc(Hons),"0","",Active,No,In-active,,Yes,1,2026-01-29 12:45:15,2026-02-05 12:35:39,1
+357,B.Sc.(Hons),"0","",Active,No,In-active,,Yes,1,2026-01-29 12:45:17,2026-02-05 12:35:39,1
+358,B.EI.Ed.,"0","",Active,No,Active,,No,1,2026-01-29 12:45:18,2026-02-09 16:12:44,1
+359,BA Hons,4,Under Graduate,Active,No,In-active,,Yes,1,2026-01-29 12:47:52,2026-02-05 12:35:39,1
+360,BCom Hons,3,Graduate,Active,No,In-active,,Yes,1,2026-01-29 12:47:52,2026-02-05 12:35:39,1
+361,ADVANCED HOTEL MANAGEMENT,"0","",Active,No,Active,,No,1,2026-01-29 12:48:02,2026-02-09 16:12:44,1
+362,MCA / MCM,"0","",Active,No,Active,,No,1,2026-01-29 12:48:03,2026-02-09 16:12:44,1
+363,Pharm.D,"0","",Active,No,In-active,,Yes,1,2026-01-29 12:48:04,2026-02-05 12:35:39,1
+364,B.Pharma Lateral Entry,"0","",Active,No,Active,,No,1,2026-01-29 12:48:17,2026-02-09 16:12:44,1
+365,B.B.A (Hons),4,Under Graduate,Active,No,Active,,No,1,2026-01-29 12:48:21,2026-02-09 16:12:44,1
+366,B.C.A (Hons),"0","",Active,No,Active,,No,1,2026-01-29 12:48:22,2026-02-09 16:12:44,1
+367,B.H.M,"0","",Active,No,Active,,No,1,2026-01-29 12:48:22,2026-02-09 16:12:44,1
+368,Bachelor of Education,3,Graduate,Active,No,Active,,No,1,2026-01-29 12:48:33,2026-01-29 12:48:33,1
+369,Bachelor of Environmental Studies,3,,,,Active,,No,1,2026-01-29 12:48:33,2026-02-06 18:30:02,1
+370,Bachelor of Environmental Planning and Management,"0","",Active,No,Active,,No,1,2026-01-29 12:48:33,2026-02-09 16:12:44,1
+371,Bachelor of Environmental Science,"0","",Active,No,Active,,No,1,2026-01-29 12:48:33,2026-02-09 16:12:44,1
+372,Master of Business Administration,2,Post Graduate,Active,No,In-active,,Yes,1,2026-01-29 12:48:34,2026-02-05 12:35:39,1
+373,Master of Environmental Studies,"0","",Active,No,Active,,No,1,2026-01-29 12:48:35,2026-02-09 16:12:44,1
+374,Master of Environmental Sciences,"0","",Active,No,Active,,No,1,2026-01-29 12:48:35,2026-02-09 16:12:44,1
+375,Master of Education,2,Post Graduate,Active,No,Active,,No,1,2026-01-29 12:48:35,2026-01-29 12:48:35,1
+376,Certificate,"0","",Active,No,Active,,No,1,2026-01-29 12:48:37,2026-01-29 12:48:37,1
+377,B.A.S,"0","",Active,No,Active,,No,1,2026-01-29 12:48:48,2026-02-09 16:12:44,1
+378,B.B.M,3,Graduate,Active,No,Active,,No,1,2026-01-29 12:48:48,2026-02-09 16:12:44,1
+379,B.B.S,3,Graduate,Active,No,Active,,No,1,2026-01-29 12:48:49,2026-02-09 16:12:44,1
+380,B.C.S,"0","",Active,No,Active,,No,1,2026-01-29 12:48:49,2026-02-09 16:12:44,1
+381,B.E.S,"0","",Active,No,Active,,No,1,2026-01-29 12:48:49,2026-02-09 16:12:44,1
+382,B.F.A,"0","",Active,No,Active,,No,1,2026-01-29 12:48:49,2026-02-09 16:12:44,1
+383,B.F.I.A,"0","",Active,No,Active,,No,1,2026-01-29 12:48:49,2026-02-09 16:12:44,1
+384,B.H.M.C.T,3,Graduate,Active,No,Active,,No,1,2026-01-29 12:48:49,2026-02-09 16:12:44,1
+385,B.I.S.M,"0","",Active,No,Active,,No,1,2026-01-29 12:48:49,2026-02-09 16:12:44,1
+386,B.L.M,"0","",Active,No,Active,,No,1,2026-01-29 12:48:49,2026-02-09 16:12:44,1
+387,B.Lit,"0","",Active,No,Active,,No,1,2026-01-29 12:48:49,2026-02-09 16:12:44,1
+388,B.S.E,"0","",Active,No,Active,,No,1,2026-01-29 12:48:50,2026-02-09 16:12:44,1
+389,BOTANY,"0","",Active,No,In-active,,Yes,1,2026-01-29 12:48:50,2026-02-05 12:35:39,1
+390,LL.B,3,Graduate,Active,No,Active,,No,1,2026-01-29 12:48:50,2026-02-09 16:12:44,1
+391,M.A.P.M,"0","",Active,No,Active,,No,1,2026-01-29 12:48:50,2026-02-09 16:12:44,1
+392,M.B.A,2,Post Graduate,Active,No,Active,,No,1,2026-01-29 12:48:50,2026-02-09 16:12:44,1
+393,M.B.E,2,Post Graduate,Active,No,Active,,No,1,2026-01-29 12:48:50,2026-02-09 16:12:44,1
+394,M.B.M,"0","",Active,No,Active,,No,1,2026-01-29 12:48:50,2026-02-09 16:12:44,1
+395,M.C.J,"0","",Active,No,Active,,No,1,2026-01-29 13:02:32,2026-02-09 16:12:44,1
+396,M.C.M,2,Post Graduate,Active,No,Active,,No,1,2026-01-29 13:02:32,2026-02-09 16:12:44,1
+397,M.C.S,"0","",Active,No,Active,,No,1,2026-01-29 13:02:32,2026-02-09 16:12:44,1
+398,M.F.A,2,Post Graduate,Active,No,Active,,No,1,2026-01-29 13:02:32,2026-02-09 16:12:44,1
+399,M.F.C,"0","",Active,No,Active,,No,1,2026-01-29 13:02:32,2026-02-09 16:12:44,1
+400,M.F.T,"0","",Active,No,Active,,No,1,2026-01-29 13:02:32,2026-02-09 16:12:44,1
+401,M.H.R.M,"0","",Active,No,Active,,No,1,2026-01-29 13:02:33,2026-02-09 16:12:44,1
+402,M.I.B,"0","",Active,No,Active,,No,1,2026-01-29 13:02:33,2026-02-09 16:12:44,1
+403,M.L.I.Sc,2,Post Graduate,Active,No,Active,,No,1,2026-01-29 13:02:33,2026-02-09 16:12:44,1
+404,M.M.S,2,Post Graduate,Active,No,Active,,No,1,2026-01-29 13:02:33,2026-02-09 16:12:44,1
+405,M.P.T,"0","",Active,No,Active,,No,1,2026-01-29 13:02:33,2026-02-09 16:12:44,1
+406,M.S.D,"0","",Active,No,Active,,No,1,2026-01-29 13:02:33,2026-02-09 16:12:44,1
+407,M.S.W,2,Post Graduate,Active,No,Active,,No,1,2026-01-29 13:02:33,2026-02-09 16:12:44,1
+408,M.T.A,"0","",Active,No,Active,,No,1,2026-01-29 13:02:33,2026-02-09 16:12:44,1
+409,M.T.M,"0","",Active,No,Active,,No,1,2026-01-29 13:02:33,2026-02-09 16:12:44,1
+410,Pharma.D,"0","",Active,No,Active,,No,1,2026-01-29 13:02:37,2026-02-09 16:12:44,1
+411,Pharma.D Post Baccalaureate,"0","",Active,No,Active,,No,1,2026-01-29 13:02:37,2026-02-09 16:12:44,1
+412,Undergraduate Courses,"0","",Active,No,In-active,,Yes,1,2026-01-29 13:02:40,2026-02-05 12:35:39,1
+413,Postgraduate Courses,"0","",Active,No,In-active,,Yes,1,2026-01-29 13:02:40,2026-02-05 12:35:39,1
+414,Ph.D Programs,3,Graduate,Active,No,In-active,,Yes,1,2026-01-29 13:02:40,2026-02-05 12:35:39,1
+415,Diploma in Elementary Education (D.El.Ed.),"0","",Active,No,Active,,No,1,2026-01-29 13:02:57,2026-02-09 16:12:44,1
+416,B.H.M.C.T.,3,Graduate,Active,No,Active,,No,1,2026-01-29 13:03:15,2026-02-09 16:12:44,1
+417,B.Ed.,3,Graduate,Active,No,Active,,No,1,2026-01-29 13:03:15,2026-02-09 16:12:44,1
+418,B.P.Ed,"0","",Active,No,Active,,No,1,2026-01-29 13:03:28,2026-02-09 16:12:44,1
+419,Advanced Diploma,"0","",Active,No,Active,,No,1,2026-01-29 13:03:29,2026-02-09 16:12:44,1
+420,BCA (Hons),"0","",Active,No,Active,,No,1,2026-01-29 13:08:53,2026-02-09 16:12:44,1
+421,BBA (Hons),4,Under Graduate,Active,No,In-active,,Yes,1,2026-01-29 13:08:53,2026-02-05 12:35:39,1
+422,Bachelor of Business Administration (BBA),3,Graduate,Active,No,Active,,No,1,2026-01-29 13:09:24,2026-02-09 16:12:44,1
+423,Bachelor of Computer Application (BCA),3,Graduate,Active,No,Active,,No,1,2026-01-29 13:09:24,2026-02-09 16:12:44,1
+424,Master of Business Administration (MBA),2,Post Graduate,Active,No,In-active,,Yes,1,2026-01-29 13:09:24,2026-02-05 12:35:39,1
+425,Master of Computer Application (MCA),2,Post Graduate,Active,No,Active,,No,1,2026-01-29 13:09:24,2026-02-09 16:12:44,1
+426,MBA Integrated,"0","",Active,No,Active,,No,1,2026-01-29 13:09:30,2026-02-09 16:12:44,1
+427,MCA Integrated,"0","",Active,No,Active,,No,1,2026-01-29 13:09:30,2026-02-09 16:12:44,1
+428,B.Ed+M.Ed,"0","",Active,No,Active,,No,1,2026-01-29 13:09:48,2026-02-09 16:12:44,1
+429,B.Sc+B.Ed,3,,,,Active,,No,1,2026-01-29 13:09:48,2026-02-10 11:28:14,1
+430,BA+B.Ed,3,,,,Active,,No,1,2026-01-29 13:09:48,2026-02-10 11:27:40,1
+431,BA+LLB,"0","",Active,No,Active,,No,1,2026-01-29 13:09:49,2026-02-09 16:12:44,1
+432,BBA+LLB,"0","",Active,No,Active,,No,1,2026-01-29 13:09:49,2026-02-09 16:12:44,1
+433,LL.M,2,Post Graduate,Active,No,Active,,No,1,2026-01-29 13:09:49,2026-02-09 16:12:44,1
+434,BP.Ed,"0","",Active,No,Active,,No,1,2026-01-29 13:09:49,2026-02-09 16:12:44,1
+435,D.P.Ed,"0","",Active,No,Active,,No,1,2026-01-29 13:09:49,2026-02-09 16:12:44,1
+436,B. Pharmacy,3,Graduate,Active,No,In-active,,Yes,1,2026-01-29 13:09:49,2026-02-05 12:35:39,1
+437,D. Pharmacy,"0","",Active,No,In-active,,Yes,1,2026-01-29 13:09:49,2026-02-05 12:35:39,1
+438,B.Sc. Agriculture,"0","",Active,No,Active,,No,1,2026-01-29 13:09:49,2026-02-09 16:12:44,1
+439,M.Sc. Agriculture,"0","",Active,No,Active,,No,1,2026-01-29 13:09:50,2026-02-09 16:12:44,1
+440,B.Sc. Nursing,"0","",Active,No,Active,,No,1,2026-01-29 13:09:50,2026-02-09 16:12:44,1
+441,ANM,"0","",Active,No,Active,,No,1,2026-01-29 13:09:50,2026-02-09 16:12:44,1
+442,GNM,"0","",Active,No,Active,,No,1,2026-01-29 13:09:50,2026-02-09 16:12:44,1
+443,B.Sc MLT,3,Graduate,Active,No,Active,,No,1,2026-01-29 13:09:50,2026-02-09 16:12:44,1
+444,P.B.B.Sc. Nursing,"0","",Active,No,Active,,No,1,2026-01-29 13:09:50,2026-02-09 16:12:44,1
+445,B.Sc (N),"0","",Active,No,Active,,No,1,2026-01-29 13:25:08,2026-02-09 16:12:44,1
+446,G.N.M,"0","",Active,No,Active,,No,1,2026-01-29 13:25:09,2026-02-09 16:12:44,1
+447,Post B.Sc (N),"0","",Active,No,Active,,No,1,2026-01-29 13:25:09,2026-02-09 16:12:44,1
+448,M.Sc (N),"0","",Active,No,Active,,No,1,2026-01-29 13:25:09,2026-02-09 16:12:44,1
+449,M.Ed.,2,Post Graduate,Active,No,Active,,No,1,2026-01-29 13:25:13,2026-02-09 16:12:44,1
+450,BFM (Bachelors of Finance Management),3,,,,Active,,No,"0",2026-02-06 10:42:21,2026-02-06 10:42:21,"0"
+451,MBA (INTEGRATED),2,,,,In-active,,Yes,"0",2026-02-06 10:42:21,2026-02-09 15:21:23,"0"
+452,BAMS (BACHELOR IN AYURVEDIC MEDICINE AND SURGERY),3,,,,In-active,,Yes,"0",2026-02-06 10:42:22,2026-02-09 15:21:23,"0"
+453,BHMS (Bachelor of Homeopathic Medicine and Surge,3,,,,Active,,No,"0",2026-02-06 10:42:22,2026-02-06 10:42:22,"0"
+454,D.Pharm,4,,,,In-active,,Yes,"0",2026-02-06 10:42:22,2026-02-09 11:00:58,"0"
+455,B.E / B.Tech,3,,,,In-active,,Yes,"0",2026-02-06 10:42:22,2026-02-09 15:21:23,"0"
+456,B.C.A,3,,,,In-active,,Yes,"0",2026-02-06 10:42:23,2026-02-09 11:00:58,"0"
+457,Bachelor of Library and Information Science,3,,,,In-active,,Yes,"0",2026-02-06 10:42:23,2026-02-09 11:00:58,"0"
+458,PGDCA,2,,,,In-active,,Yes,"0",2026-02-06 10:42:23,2026-02-09 11:00:58,"0"
+459,BSc (Hons),3,,,,In-active,,Yes,"0",2026-02-06 10:42:23,2026-02-09 15:21:23,"0"
+460,M.Lib.I.Sc,2,,,,In-active,,Yes,"0",2026-02-06 10:42:24,2026-02-09 11:00:58,"0"
+461,AI Teacher Training Certification,3,,,,In-active,,Yes,"0",2026-02-06 10:42:24,2026-02-09 11:00:58,"0"
+462,B.Com (Honours),3,,,,In-active,,Yes,"0",2026-02-06 10:42:24,2026-02-09 11:00:58,"0"
+463,M.C.A.,2,,,,Active,,No,"0",2026-02-06 10:42:24,2026-02-06 10:42:24,"0"
+464,B.Com.,3,,,,In-active,,Yes,"0",2026-02-06 10:42:25,2026-02-09 11:00:58,"0"
+465,M.A.,2,,,,In-active,,Yes,"0",2026-02-06 10:42:25,2026-02-09 11:00:58,"0"
+466,BLIS,3,,,,In-active,,Yes,"0",2026-02-06 10:42:25,2026-02-09 11:00:58,"0"
+467,Bachelors in Management Studies,3,,,,Active,,No,"0",2026-02-06 10:42:25,2026-02-06 10:42:25,"0"
+468,D.El.Ed,4,,,,In-active,,Yes,"0",2026-02-06 10:42:26,2026-02-09 11:00:58,"0"
+469,B.Com Hons,3,,,,In-active,,No,"0",2026-02-06 10:42:26,2026-02-27 18:08:48,1584
+470,B.Lib.Sc.,3,,,,Active,,No,"0",2026-02-06 10:42:26,2026-02-06 10:42:26,"0"
+471,B.A. (Honours),3,,,,In-active,,Yes,"0",2026-02-06 10:42:26,2026-02-09 15:21:23,"0"
+472,B.Sc. (Honours),3,,,,In-active,,Yes,"0",2026-02-06 10:42:26,2026-02-09 15:21:23,"0"
+473,B.Sc Nursing,3,,,,Active,,No,"0",2026-02-06 10:42:27,2026-02-06 10:42:27,"0"
+474,M.Com.,2,,,,Active,,No,"0",2026-02-06 10:42:27,2026-02-06 10:42:27,"0"
+475,M.E/M.Tech,2,,,,In-active,,Yes,"0",2026-02-06 10:42:27,2026-02-09 15:21:23,"0"
+476,B.EI.Ed.,3,,,,In-active,,Yes,"0",2026-02-06 10:42:28,2026-02-09 11:00:58,"0"
+477,BA Hons,3,,,,In-active,,Yes,"0",2026-02-06 10:42:28,2026-02-09 11:00:58,"0"
+478,ADVANCED HOTEL MANAGEMENT,3,,,,In-active,,Yes,"0",2026-02-06 10:42:28,2026-02-09 11:00:58,"0"
+479,MCA / MCM,3,,,,In-active,,Yes,"0",2026-02-06 10:42:28,2026-02-09 11:00:58,"0"
+480,Pharm.D,2,,,,In-active,,Yes,"0",2026-02-06 10:42:28,2026-02-09 11:00:58,"0"
+481,B.Pharma Lateral Entry,3,,,,In-active,,Yes,"0",2026-02-06 10:42:28,2026-02-09 15:21:23,"0"
+482,B.B.A (Hons),3,,,,Active,,No,"0",2026-02-06 10:42:28,2026-02-06 10:42:28,"0"
+483,B.C.A (Hons),3,,,,Active,,No,"0",2026-02-06 10:42:28,2026-02-06 10:42:28,"0"
+484,B.H.M,3,,,,In-active,,Yes,"0",2026-02-06 10:42:29,2026-02-09 11:00:58,"0"
+485,Bachelor of Environmental Planning and Management,3,,,,In-active,,Yes,"0",2026-02-06 10:42:29,2026-02-09 11:00:58,"0"
+486,Bachelor of Environmental Science,3,,,,In-active,,Yes,"0",2026-02-06 10:42:29,2026-02-09 11:00:58,"0"
+487,Master of Business Administration,2,,,,In-active,,Yes,"0",2026-02-06 10:42:29,2026-02-09 11:00:58,"0"
+488,Master of Environmental Studies,2,,,,In-active,,Yes,"0",2026-02-06 10:42:29,2026-02-09 11:00:58,"0"
+489,Master of Environmental Sciences,2,,,,In-active,,Yes,"0",2026-02-06 10:42:29,2026-02-09 11:00:58,"0"
+490,B.A.S,3,,,,In-active,,Yes,"0",2026-02-06 10:42:29,2026-02-09 11:00:58,"0"
+491,B.B.M,3,,,,In-active,,Yes,"0",2026-02-06 10:42:29,2026-02-09 15:21:23,"0"
+492,B.B.S,3,,,,In-active,,Yes,"0",2026-02-06 10:42:29,2026-02-09 11:00:58,"0"
+493,B.C.S,3,,,,In-active,,Yes,"0",2026-02-06 10:42:29,2026-02-09 11:00:58,"0"
+494,B.E.S,3,,,,In-active,,Yes,"0",2026-02-06 10:42:29,2026-02-09 11:00:58,"0"
+495,B.F.A,3,,,,In-active,,Yes,"0",2026-02-06 10:42:29,2026-02-09 11:00:58,"0"
+496,B.F.I.A,3,,,,In-active,,Yes,"0",2026-02-06 10:42:30,2026-02-09 11:00:58,"0"
+497,B.H.M.C.T,3,,,,In-active,,Yes,"0",2026-02-06 10:42:30,2026-02-09 11:00:58,"0"
+498,B.I.S.M,3,,,,In-active,,Yes,"0",2026-02-06 10:42:30,2026-02-09 11:00:58,"0"
+499,B.L.M,3,,,,In-active,,Yes,"0",2026-02-06 10:42:30,2026-02-09 11:00:58,"0"
+500,B.Lit,3,,,,In-active,,Yes,"0",2026-02-06 10:42:30,2026-02-09 11:00:58,"0"
+501,B.S.E,3,,,,In-active,,Yes,"0",2026-02-06 10:42:30,2026-02-09 11:00:58,"0"
+502,LL.B,3,,,,Active,,No,"0",2026-02-06 10:42:30,2026-02-06 10:42:30,"0"
+503,M.A.P.M,2,,,,In-active,,Yes,"0",2026-02-06 10:42:30,2026-02-09 15:21:23,"0"
+504,M.B.A,2,,,,In-active,,Yes,"0",2026-02-06 10:42:31,2026-02-09 11:00:58,"0"
+505,M.B.E,2,,,,In-active,,Yes,"0",2026-02-06 10:42:31,2026-02-09 11:00:58,"0"
+506,M.B.M,2,,,,In-active,,Yes,"0",2026-02-06 10:42:31,2026-02-09 11:00:58,"0"
+507,M.C.J,2,,,,In-active,,Yes,"0",2026-02-06 10:42:31,2026-02-09 11:00:58,"0"
+508,M.C.M,2,,,,In-active,,Yes,"0",2026-02-06 10:42:31,2026-02-09 11:00:58,"0"
+509,M.C.S,2,,,,In-active,,Yes,"0",2026-02-06 10:42:31,2026-02-09 11:00:58,"0"
+510,M.F.A,2,,,,In-active,,Yes,"0",2026-02-06 10:42:31,2026-02-09 11:00:58,"0"
+511,M.F.C,2,,,,In-active,,Yes,"0",2026-02-06 10:42:31,2026-02-09 11:00:58,"0"
+512,M.F.T,2,,,,In-active,,Yes,"0",2026-02-06 10:42:31,2026-02-09 11:00:58,"0"
+513,M.H.R.M,2,,,,In-active,,Yes,"0",2026-02-06 10:42:31,2026-02-09 11:00:58,"0"
+514,M.I.B,2,,,,In-active,,Yes,"0",2026-02-06 10:42:31,2026-02-09 11:00:58,"0"
+515,M.L.I.Sc,2,,,,In-active,,Yes,"0",2026-02-06 10:42:31,2026-02-09 11:00:58,"0"
+516,M.M.S,2,,,,In-active,,Yes,"0",2026-02-06 10:42:31,2026-02-09 11:00:58,"0"
+517,M.P.T,2,,,,In-active,,Yes,"0",2026-02-06 10:42:31,2026-02-09 11:00:58,"0"
+518,M.S.D,2,,,,In-active,,Yes,"0",2026-02-06 10:42:32,2026-02-09 11:00:58,"0"
+519,M.S.W,2,,,,In-active,,Yes,"0",2026-02-06 10:42:32,2026-02-09 11:00:58,"0"
+520,M.T.A,2,,,,In-active,,Yes,"0",2026-02-06 10:42:32,2026-02-09 11:00:58,"0"
+521,M.T.M,2,,,,In-active,,Yes,"0",2026-02-06 10:42:32,2026-02-09 11:00:58,"0"
+522,Ph.D Programs,1,,,,In-active,,Yes,"0",2026-02-06 10:42:32,2026-02-09 11:00:58,"0"
+523,Diploma in Elementary Education (D.El.Ed.),4,,,,Active,,No,"0",2026-02-06 10:42:32,2026-02-06 10:42:32,"0"
+524,B.Ed.,3,,,,In-active,,Yes,"0",2026-02-06 10:42:32,2026-02-09 11:00:58,"0"
+525,B.P.Ed,3,,,,In-active,,Yes,"0",2026-02-06 10:42:32,2026-02-09 11:00:58,"0"
+526,Advanced Diploma,4,,,,In-active,,Yes,"0",2026-02-06 10:42:32,2026-02-09 11:00:58,"0"
+527,Bachelor of Business Administration (BBA),3,,,,In-active,,Yes,"0",2026-02-06 10:42:32,2026-02-09 11:00:58,"0"
+528,Bachelor of Computer Application (BCA),3,,,,In-active,,Yes,"0",2026-02-06 10:42:32,2026-02-09 11:00:58,"0"
+529,Master of Business Administration (MBA),2,,,,In-active,,Yes,"0",2026-02-06 10:42:32,2026-02-09 11:00:58,"0"
+530,Master of Computer Application (MCA),2,,,,In-active,,Yes,"0",2026-02-06 10:42:33,2026-02-09 11:00:58,"0"
+531,MCA Integrated,3,,,,In-active,,Yes,"0",2026-02-06 10:42:33,2026-02-09 11:00:58,"0"
+532,B.Ed+M.Ed,3,,,,In-active,,Yes,"0",2026-02-06 10:42:33,2026-02-09 11:00:58,"0"
+533,B.Sc+B.Ed,3,,,,In-active,,Yes,"0",2026-02-06 10:42:33,2026-02-09 11:00:58,"0"
+534,BA+B.Ed,3,,,,In-active,,Yes,"0",2026-02-06 10:42:33,2026-02-09 11:00:58,"0"
+535,BA+LLB,3,,,,In-active,,Yes,"0",2026-02-06 10:42:33,2026-02-09 11:00:58,"0"
+536,BBA+LLB,3,,,,In-active,,Yes,"0",2026-02-06 10:42:33,2026-02-09 15:21:23,"0"
+537,LL.M,2,,,,Active,,No,"0",2026-02-06 10:42:34,2026-02-06 10:42:34,"0"
+538,D.P.Ed,4,,,,In-active,,Yes,"0",2026-02-06 10:42:34,2026-02-09 11:00:58,"0"
+539,B. Pharmacy,3,,,,In-active,,Yes,"0",2026-02-06 10:42:34,2026-02-09 11:00:58,"0"
+540,B.Sc. Agriculture,3,,,,In-active,,Yes,"0",2026-02-06 10:42:34,2026-02-09 11:00:58,"0"
+541,M.Sc. Agriculture,2,,,,In-active,,Yes,"0",2026-02-06 10:42:34,2026-02-09 11:00:58,"0"
+542,ANM,4,,,,In-active,,Yes,"0",2026-02-06 10:42:34,2026-02-09 11:00:58,"0"
+543,GNM,4,,,,In-active,,Yes,"0",2026-02-06 10:42:34,2026-02-09 11:00:58,"0"
+544,B.Sc MLT,3,,,,In-active,,Yes,"0",2026-02-06 10:42:34,2026-02-09 11:00:58,"0"
+545,P.B.B.Sc. Nursing,3,,,,In-active,,Yes,"0",2026-02-06 10:42:34,2026-02-09 11:00:58,"0"
+546,B.Sc (N),3,,,,In-active,,Yes,"0",2026-02-06 10:42:35,2026-02-09 11:00:58,"0"
+547,Post B.Sc (N),2,,,,In-active,,Yes,"0",2026-02-06 10:42:35,2026-02-09 11:00:58,"0"
+548,M.Sc (N),2,,,,In-active,,Yes,"0",2026-02-06 10:42:35,2026-02-09 15:21:23,"0"
+549,M.Ed.,2,,,,In-active,,Yes,"0",2026-02-06 10:42:35,2026-02-09 15:21:23,"0"
+550,B.Des,3,,,,Active,,No,"0",2026-02-06 10:42:35,2026-02-06 10:42:35,"0"
+551,D.Pharma,4,,,,Active,,No,"0",2026-02-06 10:42:38,2026-02-06 10:42:38,"0"
+552,B.Pharma,3,,,,Active,,No,"0",2026-02-06 10:42:39,2026-02-06 10:42:39,"0"
+553,B.C.A.,3,,,,In-active,,Yes,"0",2026-02-06 18:04:43,2026-02-09 11:00:58,"0"
+554,Business English,3,,,,In-active,,Yes,"0",2026-02-06 18:04:46,2026-02-09 11:00:58,"0"
+555,Fashion Designing,3,,,,Active,,No,"0",2026-02-06 18:04:46,2026-02-06 18:04:46,"0"
+556,B.Sc. (Hons),3,,,,In-active,,Yes,"0",2026-02-06 18:04:46,2026-02-09 11:00:58,"0"
+557,BA (H),4,,,,In-active,,Yes,"0",2026-02-06 18:04:46,2026-02-09 11:00:58,"0"
+558,BSc (H),4,,,,In-active,,Yes,"0",2026-02-06 18:04:47,2026-02-09 11:00:58,"0"
+559,B.Sc Hons,3,,,,In-active,,Yes,"0",2026-02-06 18:04:47,2026-02-09 11:00:58,"0"
+560,B.Sc (Hons),3,,,,In-active,,Yes,"0",2026-02-06 18:04:49,2026-02-09 11:00:58,"0"
+561,B.Com(Hons),3,,,,In-active,,Yes,"0",2026-02-06 18:04:49,2026-02-09 15:21:23,"0"
+562,B.Sc(Hons),3,,,,In-active,,Yes,"0",2026-02-06 18:04:49,2026-02-09 11:00:58,"0"
+563,B.Sc.(Hons),3,,,,In-active,,Yes,"0",2026-02-06 18:04:49,2026-02-09 11:00:58,"0"
+564,BCom Hons,3,,,,In-active,,Yes,"0",2026-02-06 18:04:50,2026-02-09 11:00:58,"0"
+565,BOTANY,3,,,,In-active,,Yes,"0",2026-02-06 18:04:51,2026-02-09 11:00:58,"0"
+566,Pharma.D,2,,,,In-active,,Yes,"0",2026-02-06 18:04:53,2026-02-09 11:00:58,"0"
+567,Pharma.D Post Baccalaureate,2,,,,In-active,,Yes,"0",2026-02-06 18:04:53,2026-02-09 11:00:58,"0"
+568,Undergraduate Courses,3,,,,In-active,,Yes,"0",2026-02-06 18:04:53,2026-02-09 11:00:58,"0"
+569,Postgraduate Courses,3,,,,In-active,,Yes,"0",2026-02-06 18:04:53,2026-02-09 11:00:58,"0"
+570,B.H.M.C.T.,3,,,,In-active,,Yes,"0",2026-02-06 18:04:53,2026-02-09 15:21:23,"0"
+571,BCA (Hons),3,,,,In-active,,Yes,"0",2026-02-06 18:04:53,2026-02-09 11:00:58,"0"
+572,BBA (Hons),3,,,,In-active,,Yes,"0",2026-02-06 18:04:53,2026-02-09 11:00:58,"0"
+573,MBA Integrated,2,,,,In-active,,Yes,"0",2026-02-06 18:04:55,2026-02-09 15:21:23,"0"
+574,BP.Ed,3,,,,In-active,,Yes,"0",2026-02-06 18:04:56,2026-02-09 11:00:58,"0"
+575,D. Pharmacy,2,,,,In-active,,Yes,"0",2026-02-06 18:04:56,2026-02-09 11:00:58,"0"
+576,B.Sc. Nursing,3,,,,In-active,,Yes,"0",2026-02-06 18:04:57,2026-02-09 11:00:58,"0"
+577,G.N.M,3,,,,In-active,,Yes,"0",2026-02-06 18:04:57,2026-02-09 11:00:58,"0"

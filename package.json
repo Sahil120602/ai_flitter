@@ -1,0 +1,19 @@
+{
+  "name": "ai-search",
+  "version": "1.0.0",
+  "description": "Terminal-based AI college search backend using Azure OpenAI and MySQL",
+  "main": "src/cli.js",
+  "scripts": {
+    "search": "node src/cli.js",
+    "search:sample": "node src/cli.js \"MBA college in Nagpur\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "axios": "^1.15.0",
+    "dotenv": "^17.4.1",
+    "mysql2": "^3.21.1"
+  }
+}
